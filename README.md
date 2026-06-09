@@ -29,7 +29,8 @@ The underlying workbook (`FHP_Crash_Data_Analysis.xlsx`) is structured into a pr
 ---
 
 ## 📈 Dashboard Preview
-![Interactive Excel Dashboard](IMAGES/FHP_dashboard.png)
+![Interactive Excel Dashboard](IMAGES/FHP_dashboard.png)<img width="1500" height="735" alt="FHP_Dashboard" src="https://github.com/user-attachments/assets/f1aa6956-f8ba-453c-9eda-db4085019378" />
+
 
 ---
 
